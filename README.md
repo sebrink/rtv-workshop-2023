@@ -15,4 +15,6 @@
 - Cool blogs:
   - https://en.hackndo.com/archives/
   - https://posts.specterops.io/
-  - https://adsecurity.org/ 
+  - https://adsecurity.org/
+- Password to the zip file (this is BloodHound CE data)
+  - bloodhoundrtv2023 
